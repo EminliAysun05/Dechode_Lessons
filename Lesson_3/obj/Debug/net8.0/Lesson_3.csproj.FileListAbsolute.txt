@@ -1,0 +1,14 @@
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\bin\Debug\net8.0\Lesson_3.exe
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\bin\Debug\net8.0\Lesson_3.deps.json
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\bin\Debug\net8.0\Lesson_3.runtimeconfig.json
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\bin\Debug\net8.0\Lesson_3.dll
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\bin\Debug\net8.0\Lesson_3.pdb
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\obj\Debug\net8.0\Lesson_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\obj\Debug\net8.0\Lesson_3.AssemblyInfoInputs.cache
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\obj\Debug\net8.0\Lesson_3.AssemblyInfo.cs
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\obj\Debug\net8.0\Lesson_3.csproj.CoreCompileInputs.cache
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\obj\Debug\net8.0\Lesson_3.dll
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\obj\Debug\net8.0\refint\Lesson_3.dll
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\obj\Debug\net8.0\Lesson_3.pdb
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\obj\Debug\net8.0\Lesson_3.genruntimeconfig.cache
+C:\Users\namjoon\source\repos\Lesson_3\Lesson_3\obj\Debug\net8.0\ref\Lesson_3.dll
