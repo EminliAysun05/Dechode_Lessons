@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{08C2D589-1DFC-40D0-8D32-1EF4C2D98B00}|Inhertance\\Inhertance.csproj|c:\\users\\namjoon\\source\\repos\\dechode_lessons\\inhertance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C2D589-1DFC-40D0-8D32-1EF4C2D98B00}|Inhertance\\Inhertance.csproj|solutionrelative:inhertance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F38E845C-AC85-49E9-B20E-E86E5AE70BAF}|Records, Deconstructor, Inhertance and others\\Records, Deconstructor, Inhertance and others.csproj|c:\\users\\namjoon\\source\\repos\\dechode_lessons\\records, deconstructor, inhertance and others\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F38E845C-AC85-49E9-B20E-E86E5AE70BAF}|Records, Deconstructor, Inhertance and others\\Records, Deconstructor, Inhertance and others.csproj|solutionrelative:records, deconstructor, inhertance and others\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,25 +57,38 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Inhertance\\Program.cs",
+              "RelativeDocumentMoniker": "Inhertance\\Program.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Inhertance\\Program.cs",
+              "RelativeToolTip": "Inhertance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:36:58.192Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Records, Deconstructor, Inhertance and others\\Program.cs",
               "RelativeDocumentMoniker": "Records, Deconstructor, Inhertance and others\\Program.cs",
-              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Records, Deconstructor, Inhertance and others\\Program.cs*",
-              "RelativeToolTip": "Records, Deconstructor, Inhertance and others\\Program.cs*",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAQwFYAAAALAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Records, Deconstructor, Inhertance and others\\Program.cs",
+              "RelativeToolTip": "Records, Deconstructor, Inhertance and others\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwNAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T21:52:01.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OOP.csproj",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\OOP\\OOP.csproj",
               "RelativeDocumentMoniker": "OOP\\OOP.csproj",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Human.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\OOP\\Oop1\\Human.cs",
               "RelativeDocumentMoniker": "OOP\\Oop1\\Human.cs",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\OOP\\Program.cs",
               "RelativeDocumentMoniker": "OOP\\Program.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Dechode_Lessons.csproj",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Dechode_Lessons\\Dechode_Lessons.csproj",
               "RelativeDocumentMoniker": "Dechode_Lessons\\Dechode_Lessons.csproj",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RekursivMethods.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Dechode_Lessons\\RekursivMethods.cs",
               "RelativeDocumentMoniker": "Dechode_Lessons\\RekursivMethods.cs",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Dechode_Lessons\\Program.cs",
               "RelativeDocumentMoniker": "Dechode_Lessons\\Program.cs",
