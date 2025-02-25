@@ -1,0 +1,14 @@
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\bin\Debug\net8.0\Dechode_Lessons.exe
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\bin\Debug\net8.0\Dechode_Lessons.deps.json
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\bin\Debug\net8.0\Dechode_Lessons.runtimeconfig.json
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\bin\Debug\net8.0\Dechode_Lessons.dll
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\bin\Debug\net8.0\Dechode_Lessons.pdb
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\obj\Debug\net8.0\Dechode_Lessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\obj\Debug\net8.0\Dechode_Lessons.AssemblyInfoInputs.cache
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\obj\Debug\net8.0\Dechode_Lessons.AssemblyInfo.cs
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\obj\Debug\net8.0\Dechode_Lessons.csproj.CoreCompileInputs.cache
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\obj\Debug\net8.0\Dechode_Lessons.dll
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\obj\Debug\net8.0\refint\Dechode_Lessons.dll
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\obj\Debug\net8.0\Dechode_Lessons.pdb
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\obj\Debug\net8.0\Dechode_Lessons.genruntimeconfig.cache
+C:\Users\namjoon\source\repos\Dechode_Lessons\Dechode_Lessons\obj\Debug\net8.0\ref\Dechode_Lessons.dll

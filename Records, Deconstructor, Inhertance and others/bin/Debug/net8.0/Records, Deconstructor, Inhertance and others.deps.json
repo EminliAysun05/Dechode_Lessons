@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Records, Deconstructor, Inhertance and others/1.0.0": {
+        "runtime": {
+          "Records, Deconstructor, Inhertance and others.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Records, Deconstructor, Inhertance and others/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

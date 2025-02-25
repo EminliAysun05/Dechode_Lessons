@@ -1,0 +1,14 @@
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\bin\Debug\net8.0\Records, Deconstructor, Inhertance and others.exe
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\bin\Debug\net8.0\Records, Deconstructor, Inhertance and others.deps.json
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\bin\Debug\net8.0\Records, Deconstructor, Inhertance and others.runtimeconfig.json
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\bin\Debug\net8.0\Records, Deconstructor, Inhertance and others.dll
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\bin\Debug\net8.0\Records, Deconstructor, Inhertance and others.pdb
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\obj\Debug\net8.0\Records, Deconstructor, Inhertance and others.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\obj\Debug\net8.0\Records, Deconstructor, Inhertance and others.AssemblyInfoInputs.cache
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\obj\Debug\net8.0\Records, Deconstructor, Inhertance and others.AssemblyInfo.cs
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\obj\Debug\net8.0\Records, Deconstructor, Inhertance and others.csproj.CoreCompileInputs.cache
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\obj\Debug\net8.0\Records, Deconstructor, Inhertance and others.dll
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\obj\Debug\net8.0\refint\Records, Deconstructor, Inhertance and others.dll
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\obj\Debug\net8.0\Records, Deconstructor, Inhertance and others.pdb
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\obj\Debug\net8.0\Records, Deconstructor, Inhertance and others.genruntimeconfig.cache
+C:\Users\namjoon\source\repos\Dechode_Lessons\Records, Deconstructor, Inhertance and others\obj\Debug\net8.0\ref\Records, Deconstructor, Inhertance and others.dll
