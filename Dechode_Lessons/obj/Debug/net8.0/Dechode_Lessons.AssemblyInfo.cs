@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dechode_Lessons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b5b4a5674280b736434f03c1e8c37200ea47313")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dechode_Lessons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dechode_Lessons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7635C55-2500-44CC-8A2C-1F104FF853D3}|LINQ\\LINQ.csproj|c:\\users\\namjoon\\source\\repos\\dechode_lessons\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7635C55-2500-44CC-8A2C-1F104FF853D3}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7635C55-2500-44CC-8A2C-1F104FF853D3}|LINQ\\LINQ.csproj|c:\\users\\namjoon\\source\\repos\\dechode_lessons\\linq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7635C55-2500-44CC-8A2C-1F104FF853D3}|LINQ\\LINQ.csproj|solutionrelative:linq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7635C55-2500-44CC-8A2C-1F104FF853D3}|LINQ\\LINQ.csproj|c:\\users\\namjoon\\source\\repos\\dechode_lessons\\linq\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7635C55-2500-44CC-8A2C-1F104FF853D3}|LINQ\\LINQ.csproj|solutionrelative:linq\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7635C55-2500-44CC-8A2C-1F104FF853D3}|LINQ\\LINQ.csproj|c:\\users\\namjoon\\source\\repos\\dechode_lessons\\linq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7635C55-2500-44CC-8A2C-1F104FF853D3}|LINQ\\LINQ.csproj|solutionrelative:linq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7635C55-2500-44CC-8A2C-1F104FF853D3}|LINQ\\LINQ.csproj|c:\\users\\namjoon\\source\\repos\\dechode_lessons\\linq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7635C55-2500-44CC-8A2C-1F104FF853D3}|LINQ\\LINQ.csproj|solutionrelative:linq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650C02DD-77B3-4E1F-8BB5-AFA83085B22C}|Generics\\Generics.csproj|c:\\users\\namjoon\\source\\repos\\dechode_lessons\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650C02DD-77B3-4E1F-8BB5-AFA83085B22C}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650C02DD-77B3-4E1F-8BB5-AFA83085B22C}|Generics\\Generics.csproj|c:\\users\\namjoon\\source\\repos\\dechode_lessons\\generics\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650C02DD-77B3-4E1F-8BB5-AFA83085B22C}|Generics\\Generics.csproj|solutionrelative:generics\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{08C2D589-1DFC-40D0-8D32-1EF4C2D98B00}|Inhertance\\Inhertance.csproj|c:\\users\\namjoon\\source\\repos\\dechode_lessons\\inhertance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08C2D589-1DFC-40D0-8D32-1EF4C2D98B00}|Inhertance\\Inhertance.csproj|solutionrelative:inhertance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +86,101 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\LINQ\\Product.cs",
+              "RelativeDocumentMoniker": "LINQ\\Product.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\LINQ\\Product.cs",
+              "RelativeToolTip": "LINQ\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:08:14.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\LINQ\\Score.cs",
+              "RelativeDocumentMoniker": "LINQ\\Score.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\LINQ\\Score.cs",
+              "RelativeToolTip": "LINQ\\Score.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:01:14.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\LINQ\\Student.cs",
+              "RelativeDocumentMoniker": "LINQ\\Student.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\LINQ\\Student.cs",
+              "RelativeToolTip": "LINQ\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:53:37.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\LINQ\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQ\\Employee.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\LINQ\\Employee.cs",
+              "RelativeToolTip": "LINQ\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:51:01.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\LINQ\\Program.cs*",
+              "RelativeToolTip": "LINQ\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:47:42.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Generics\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Generics\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Generics\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Generics\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:41:51.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Generics\\Program.cs",
+              "RelativeToolTip": "Generics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:41:33.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Inhertance\\Program.cs",
               "RelativeDocumentMoniker": "Inhertance\\Program.cs",
@@ -66,16 +188,11 @@
               "RelativeToolTip": "Inhertance\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:36:58.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2025-02-25T11:36:58.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Records, Deconstructor, Inhertance and others\\Program.cs",
               "RelativeDocumentMoniker": "Records, Deconstructor, Inhertance and others\\Program.cs",
@@ -83,12 +200,11 @@
               "RelativeToolTip": "Records, Deconstructor, Inhertance and others\\Program.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAYwNAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T21:52:01.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T21:52:01.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "OOP.csproj",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\OOP\\OOP.csproj",
               "RelativeDocumentMoniker": "OOP\\OOP.csproj",
@@ -100,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Human.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\OOP\\Oop1\\Human.cs",
               "RelativeDocumentMoniker": "OOP\\Oop1\\Human.cs",
@@ -112,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\OOP\\Program.cs",
               "RelativeDocumentMoniker": "OOP\\Program.cs",
@@ -124,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Dechode_Lessons.csproj",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Dechode_Lessons\\Dechode_Lessons.csproj",
               "RelativeDocumentMoniker": "Dechode_Lessons\\Dechode_Lessons.csproj",
@@ -136,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "RekursivMethods.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Dechode_Lessons\\RekursivMethods.cs",
               "RelativeDocumentMoniker": "Dechode_Lessons\\RekursivMethods.cs",
@@ -144,12 +260,11 @@
               "RelativeToolTip": "Dechode_Lessons\\RekursivMethods.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T09:33:56.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T09:33:56.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Dechode_Lessons\\Dechode_Lessons\\Program.cs",
               "RelativeDocumentMoniker": "Dechode_Lessons\\Program.cs",
@@ -157,8 +272,7 @@
               "RelativeToolTip": "Dechode_Lessons\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T09:33:23.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T09:33:23.215Z"
             }
           ]
         },
